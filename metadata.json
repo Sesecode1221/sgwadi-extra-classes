@@ -1,0 +1,8 @@
+{
+  "name": "Remix Sigwadi Maths and Science Tutorial",
+  "description": "Premier Mathematics and Physical Sciences tutoring for high school learners (Grades 8–12) in South Africa. Directed by Avuma Sigwadi (BCom Accounting, NMU).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
